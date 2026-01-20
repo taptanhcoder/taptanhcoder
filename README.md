@@ -1,7 +1,6 @@
 <!-- =========================
   GitHub Profile README
   Author: Dao Trong Nghia
-  Theme: dark / muted / modern
 ========================= -->
 
 <p align="center">
