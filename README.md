@@ -1,11 +1,14 @@
 <!-- =========================
   GitHub Profile README
   Author: Dao Trong Nghia
-  Tip: Replace `taptanhcoder` with your username if needed.
+  Theme: dark / muted / modern
 ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Dao%20Trong%20Nghia&fontAlign=50&fontAlignY=35&desc=AI%20Engineering%20Intern%20%7C%20UIT%20(VNU-HCM)&descAlign=50&descAlignY=55" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0b0f1a&text=Dao%20Trong%20Nghia&fontSize=62&fontAlign=50&fontAlignY=36&desc=AI%20Engineering%20Intern%20%7C%20UIT%20(VNU-HCM)&descSize=18&descAlign=50&descAlignY=66"
+    alt="Dao Trong Nghia"
+  />
 </p>
 
 <p align="center">
