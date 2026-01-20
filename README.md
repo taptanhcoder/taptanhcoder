@@ -40,7 +40,7 @@ I enjoy building **research-to-production ML systems** — from modeling to data
 
 ---
 
-## 🧰 Tech Stack (high-level)
+## 🧰 Tech Stack 
 
 
 ### AI / ML
