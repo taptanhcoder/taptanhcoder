@@ -41,7 +41,7 @@ I enjoy building **research-to-production ML systems** — from modeling to data
 ---
 
 ## 🧰 Tech Stack (high-level)
-> I keep this section **model-agnostic** so it’s easy to evolve as I learn.
+
 
 ### AI / ML
 ![ML](https://img.shields.io/badge/ML-333?style=for-the-badge)
