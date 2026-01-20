@@ -5,11 +5,9 @@
 ========================= -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0b0f1a&text=Dao%20Trong%20Nghia&fontSize=62&fontAlign=50&fontAlignY=36&desc=AI%20Engineering%20Intern%20%7C%20UIT%20(VNU-HCM)&descSize=18&descAlign=50&descAlignY=66"
-    alt="Dao Trong Nghia"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:0B1020,100:2C1B4F&text=Dao%20Trong%20Nghia&fontSize=72&fontAlign=50&fontAlignY=34&desc=AI%20Engineering%20Intern%20%7C%20UIT%20(VNU-HCM)&descSize=24&descAlign=50&descAlignY=73&fontColor=E6EAF2&stroke=6D5BD0&strokeWidth=2&animation=fadeIn" />
 </p>
+
 
 <p align="center">
   <a href="mailto:dtn284@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dtn284%40gmail.com-333?style=for-the-badge&logo=gmail" /></a>
