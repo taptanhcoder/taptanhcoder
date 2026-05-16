@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="assets/ai-engineering-header.png"
+    src="./ai-engineering-header.png"
     alt="Dao Trong Nghia - AI Engineering Intern | UIT (VNU-HCM)"
     width="100%"
   />
