@@ -35,7 +35,7 @@ I enjoy building **research-to-production ML systems** — from modeling to data
 
 ---
 
-## 🧠 Strengths (what you can expect from me)
+## 🧠 Strengths 
 - **System thinking**: design end-to-end pipelines (data → training → serving → monitoring)
 - **Experiment discipline**: reproducible training, clean configs, measurable iterations
 - **Production mindset**: latency-aware inference, scalable data/stream processing
