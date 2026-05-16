@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/taptanhcoder/taptanhcoder/main/assets/ai-engineering-header.png"
+    src="assets/ai-engineering-header.png"
     alt="Dao Trong Nghia - AI Engineering Intern | UIT (VNU-HCM)"
     width="100%"
   />
