@@ -4,7 +4,11 @@
 ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&section=header&color=0:020617,18:0F172A,42:0B3B5A,68:312E81,86:5B21B6,100:7C3AED&text=Dao%20Trong%20Nghia&fontSize=70&fontAlign=50&fontAlignY=35&desc=AI%20Engineering%20Intern%20%7C%20UIT%20(VNU-HCM)&descSize=24&descAlign=50&descAlignY=72&fontColor=F8FAFC&stroke=38BDF8&strokeWidth=2&animation=twinkling" />
+  <img
+    src="https://raw.githubusercontent.com/taptanhcoder/taptanhcoder/main/assets/ai-engineering-header.png"
+    alt="Dao Trong Nghia - AI Engineering Intern | UIT (VNU-HCM)"
+    width="100%"
+  />
 </p>
 
 <p align="center">
