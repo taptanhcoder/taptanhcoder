@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:0B1020,40:1B1F3B,75:312E81,100:6D28D9&text=Dao%20Trong%20Nghia&fontSize=64&fontAlign=50&fontAlignY=36&desc=AI%20Research%20%7C%20Multimodal%20Learning%20%7C%20UIT%20(VNU-HCM)&descSize=21&descAlign=50&descAlignY=70&fontColor=F9FAFB&stroke=A78BFA&strokeWidth=1.5&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=270&section=header&color=0:020617,30:0F172A,60:1D4ED8,100:7C3AED&text=Dao%20Trong%20Nghia&fontSize=68&fontAlign=50&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20NLP%20%E2%80%A2%20Speech%20%E2%80%A2%20Computer%20Vision&descSize=21&descAlign=50&descAlignY=71&fontColor=FFFFFF&stroke=93C5FD&strokeWidth=1.4&animation=twinkling"
   />
 </p>
 
